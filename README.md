@@ -32,7 +32,7 @@ text-align: center;
 padding: 40px;
 font-size: 30px;
 ">
-<p>我的网盘<p>
+<p>我的网盘</p>
 <a href="https://www.123pan.com/s/ynz5Vv-AUI3d.html">123网盘</a>
 </div>
 </body>
