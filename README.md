@@ -17,7 +17,7 @@ text-text-align: center;
 padding: 40px;
 
 ">
-<img src='https://qiniucdn.production.cjuhe.com/profile_images/1713016193945' alt="陌生人" width="600px" height="600px">
+<img src='https://qiniucdn.production.cjuhe.com/profile_images/1713016193945' alt="陌生人" width="500px" height="500px">
 </div>
 <div style="
 max-width: 900px;
@@ -36,6 +36,8 @@ color:red;
 <a href="https://yun.139.com/link/m/i?1B5C5ziEU6IvJ=">点击链接</a>
 <p>帝落破解密码:0328</p>
 <a href="https://share.feijipan.com/s/3uUWEAlB">点击链接</a>
+<p>下次一定</p>
+<a https://www.iiice.cn/#/">点击链接</a>
 </div>
 <div style="
 background-color: #flflfl;
