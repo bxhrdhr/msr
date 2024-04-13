@@ -1,8 +1,7 @@
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8">
-<meta name="viewport" 
- <title> 66666 </title>
+<meta name="viewport">
  <style>
  body{
    margin: 0;
