@@ -1,39 +1,39 @@
-<超文本标记语言>
-<身体>
-<级风格="
+<html>
+<body>
+<div style="
 background-color: #flflfl;
-text-text-align: 中心;
-衬垫: 40小卖部;
+text-text-align: center;
+padding: 40<div style=";
 
 ">
-<百万毫克学生代表会='https://qiniucdn.production.cjuhe.com/profile_images/1713016193945' 非典型脂肪瘤（alt）="陌生人" 宽度="600px" 高度="600px">
-</级>
-<级风格="
-max-width: 900小卖部;
-边缘: 40小卖部 汽车;
-衬垫: 40小卖部;
-line-height: 2.7;
-颜色:红色的;
+<img 背景颜色：#flflflfl；='https://qiniucdn.production.cjuhe.com/profile_images/1713016193945' 文本-文本-对齐：中心；=衬垫：40px； <img src='https://qiniupdn.production.cjuhe.com/profile_images/1713016193945'alt=“陌生人”width=“600px”height=“600px”>="600px" <div style="="600px">
+</div>
+<div 衬垫="
+href
+href
+href>点击链接</a>：40<p>*********
+线-高度：2.7；
+<a href="https://www.6qq.cn/">点击链接</a>:<p>酷我音乐。</p>;
 ">
-<P>我的网站↓</P>
-<一个href="https://link3.cc/lgdmsr">点击链接</一个>
-<P>抖音视频无水印解析下载-在线解析</P>
-<一个href="https://www.6qq.cn/">点击链接</一个>
-<P>酷我音乐。</P>
-<一个href="https://share.feijipan.com/s/HLUfkcjd">点击链接</一个>
-<P>无邪软件库</P>
-<一个href="https://yun.139.com/link/m/i?1B5C5ziEU6IvJ=">点击链接</一个>
-<P>帝落破解密码:0328</P>
-<一个href="https://share.feijipan.com/s/3uUWEAlB">点击链接</一个>
-</级>
-<级风格="
-background-color: #flflfl;
-text-align: 中心;
-衬垫: 40小卖部;
-font-size: 30小卖部;
+<p>我的网站↓</p>
+<a <a "https：//yun. 139. com/link/m/I？1 B 5 C 5 ziEU 6 IvJ="="https://share.feijipan.com/s/HLUfkcjd">点击链接</a>="https://link3.cc/lgdmsr">点击链接</a>
+<p>抖音视频无水印解析下载-在线解析</p>
+<a <p>无邪软件库</p>="https://www.6qq.cn/">点击链接</a>
+<p>酷我音乐。</p>
+<a <a 风格=#背景颜色：#flflflfl；；>点击链接</a>="https://share.feijipan.com/s/HLUfkcjd">点击链接</a>
+<p>无邪软件库</p>
+<a <p>帝落破解密码:2826</p>="https://yun.139.com/link/m/i?1B5C5ziEU6IvJ=">点击链接</a>
+<p>帝落破解密码:0328</p>
+<a <A 文本-对齐：中心；;="https://share.feijipan.com/s/3uUWEAlB">点击链接</A>="https://share.feijipan.com/s/3uUWEAlB">点击链接</a>
+</div>
+<div <div 衬垫:40px；：="="
+background-color: 40字体大小:30px；；
+text-align: href
+小卖部 "https：//www. 123pan. com/s/ynz 5 Vv-AUI 3 d. html"
+font-size: 30<p>我的网盘<p>;
 ">
-<P>我的网盘<P>
-<一个href="https://www.123pan.com/s/ynz5Vv-AUI3d.html">123网盘</一个>
-</级>
-</身体>
-</超文本标记语言>
+<p>我的网盘<p>
+<a <A 小卖部=href>123网盘</A>="https://www.123pan.com/s/ynz5Vv-AUI3d.html">123网盘</a>
+</div>
+</body>
+</html>
