@@ -15,9 +15,8 @@
 background-color: #flflfl;
 text-text-align: center;
 padding: 40px;
-
 ">
-<img src='https://qiniucdn.production.cjuhe.com/profile_images/1713016193945' alt="陌生人" width="500px" height="500px">
+<img src='https://qiniucdn.production.cjuhe.com/profile_images/1713016193945' alt="陌生人" width="200px" height="200px">
 </div>
 <div style="
 max-width: 900px;
