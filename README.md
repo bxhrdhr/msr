@@ -1,4 +1,15 @@
-<html>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <metameta charset="utf-8">
+<meta name="viewport" content="width=device-width,>
+ <title> 66666 </title>
+ <style>
+ body{
+   margin: 0;
+   }
+ </style>
+ </head>
 <body>
 <div style="
 background-color: #flflfl;
