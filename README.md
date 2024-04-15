@@ -1,18 +1,4 @@
 <!DOCTYPE html>
-<html>
-  <head>
-	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<title>WebCat</title>
-  </head>
-  <body>	
-	<h1>🤪😜🌈🎭🧩</h1>
-	<p>不知道写什么好</p>  
-  <div id="v17" style=">
-background-color: #flflfl;
-text-text-align: center;
-padding: 40px;
-
-"> 
    <img id="v2" src="https://qiniucdn.production.cjuhe.com/profile_images/1713016193945" alt="陌生人" width="200px" height="200px"> 
    
    </header> 
