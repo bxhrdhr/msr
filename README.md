@@ -1,5 +1,5 @@
 <html>
-<body<>
+<body>
    <div>
    <img id="v2" src="https://qiniucdn.production.cjuhe.com/profile_images/1713016193945" alt="陌生人" width="200px" height="200px"<>
   </div> 
