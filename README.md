@@ -48,7 +48,3 @@ font-size: 30px;
   </div>  
   </body>
 </html>
-<script src="https://player.xfyun.club/js/xf-MusicPlayer/js/xf-MusicPlayer.min.js"></script>
-<script src="js/script.js"></script>
-<script src="js/sakura.js"></script>
-<script src="js/clock.js"></script>
