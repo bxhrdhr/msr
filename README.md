@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html lang>
+<!DOCTYPE html>
+<html>
   <head>
-	<meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<title>🤪😜🌈🎭🧩陌生人</title>
   </head>
   <body>	
-	<p>不知道写什么好！</p>
+	<h1>你猜</h1>
+	<p>不知道写什么好！</p>  
   </body>
+</html>
+<html>
   <body>
   <div id="v17" style=">
 background-color: #flflfl;
