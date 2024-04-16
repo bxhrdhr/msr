@@ -1,7 +1,21 @@
-<html>
-<body>
-   <div>
-   <img id="v2" src="https://qiniucdn.production.cjuhe.com/profile_images/1713016193945" alt="陌生人" width="200px" height="200px"<>
+<!DOCTYPE html>
+<html lang>
+  <head>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>🤪😜🌈🎭🧩陌生人</title>
+  </head>
+  <body>	
+	<p>不知道写什么好！</p>
+  </body>
+  <body>
+  <div id="v17" style=">
+background-color: #flflfl;
+text-text-align: center;
+padding: 40px;
+
+"> 
+   <img id="v2" src="https://qiniucdn.production.cjuhe.com/profile_images/1713016193945" alt="陌生人" width="200px" height="200px"> 
   </div> 
   <div style="
 max-width: 900px;
