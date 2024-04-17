@@ -27,7 +27,7 @@
     .container {
         backdrop-filter: blur(10px);
         background-color: rgba(255, 255, 255, 0.7);
-        padding: 20px;
+        padding: 40px;
         border-radius: 20px;
         box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         transition: background-color 0.3s ease, box-shadow 0.5s ease, transform 0.5s ease;
@@ -39,9 +39,9 @@
     }
     .card {
         background-color: #fff;
-        margin-top: 20px;
-        padding: 15px;
-        border-radius: 10px;
+        margin-top: 10px;
+        padding: 20px;
+        border-radius: 20px;
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         display: flex;
         width: 100%; /* Full width cards */
@@ -66,8 +66,9 @@
 </head>
 <body>
 <div class="container">
-    <h1>做自己喜欢做的事，能发挥到极致</h1>
+    <h1>🤪😜🌈🎭🧩陌生人</h1>
     <p>欢迎来到<b>陌生人网址导航</b>，一款本人自用的引流导航</p>
+    <p>做自己喜欢做的事，能发挥到极致</p>
     <div class="card">
         <div class="left">
             <h2>陌生人资源网</h2>
