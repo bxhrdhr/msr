@@ -40,9 +40,9 @@
     .card {
         background-color: #fff;
         margin-top: 10px;
-        padding: 20px;
-        border-radius: 20px;
-        box-shadow: 02px 4px rgba(0,0,0,0.1);
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 01px 4px rgba(0,0,0,0.1);
         display: flex;
         width: 100%; /* Full width cards */
     }
