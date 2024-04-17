@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>🤪😜🌈🎭🧩陌生人网静态网址导航</title>
+<title>🤪😜🌈🎭🧩陌生人导航</title>
 <style>
     @keyframes auroraBG {
         0% { background-position: 0% 50%; }
@@ -66,8 +66,8 @@
 </head>
 <body>
 <div class="container">
-    <h1>😜🌈🎭导航</h1>
-    <p>欢迎来到<b>😜网址导航</b>，一款本人自用的引流导航。</p>
+    <h1>做自己喜欢做的事，能发挥到极致</h1>
+    <p>欢迎来到<b>陌生人网址导航</b>，一款本人自用的引流导航</p>
     <div class="card">
         <div class="left">
             <h2>陌生人资源网</h2>
