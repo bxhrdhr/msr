@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>🤪😜🌈🎭🧩陌生人网静态网址导航</title>
+<title>🤪😜🌈🎭🧩陌生人网址导航</title>
 <style>
     @keyframes auroraBG {
         0% { background-position: 0% 50%; }
