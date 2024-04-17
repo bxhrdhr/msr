@@ -27,8 +27,8 @@
     .container {
         backdrop-filter: blur(10px);
         background-color: rgba(255, 255, 255, 0.7);
-        padding: 50px;
-        border-radius: 40px;
+        padding: 20px;
+        border-radius: 10px;
         box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         transition: background-color 0.3s ease, box-shadow 0.5s ease, transform 0.5s ease;
         cursor: pointer;
@@ -39,9 +39,9 @@
     }
     .card {
         background-color: #fff;
-        margin-top: 30px;
-        padding: 10px;
-        border-radius: 20px;
+        margin-top: 10px;
+        padding: 20px;
+        border-radius: 10px;
         box-shadow: 0 1px 4px rgba(0,0,0,0.1);
         display: flex;
         width: 100%; /* Full width cards */
