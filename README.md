@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>🤪😜🌈🎭🧩陌生人网址导航</title>
+<title>🤪😜🌈🎭🧩陌生人网静态网址导航</title>
 <style>
     @keyframes auroraBG {
         0% { background-position: 0% 50%; }
@@ -66,8 +66,8 @@
 </head>
 <body>
 <div class="container">
-    <h1>🤪😜🌈🎭🧩陌生人网静态网址导航</h1>
-    <p>欢迎来到<b>🤪😜🌈🎭🧩陌生人网静态网址导航</b>，一款本人自用的引流导航。</p>
+    <h1>😜🌈🎭导航</h1>
+    <p>欢迎来到<b>😜网址导航</b>，一款本人自用的引流导航。</p>
     <div class="card">
         <div class="left">
             <h2>陌生人资源网</h2>
@@ -86,10 +86,20 @@
             <a href="https://share.feijipan.com/s/HLUfkcjd" target="_blank">访问网站</a>
         </div>
     </div>
+     <div class="card">
+        <div class="left">
+            <h2>我的网盘</h2>
+            <p>分享免费软件</p>
+        </div>
+        <div class="right">
+            <a href="https://www.123pan.com/s/ynz5Vv-AUI3d.html" target="_blank">访问网站</a>
+        </div>
     <!-- 更多卡片可以根据需要添加 -->
 </div>
 <footer>
     <p>© 2024 <a href="https://link3.cc/lgdmsr">🤪😜🌈🎭🧩陌生人网络</a></p>
+ <p>ICP备案: 已备案</p>
+ <p>公安备案: 已备案</p>
 </footer>
 </body>
 </html>
