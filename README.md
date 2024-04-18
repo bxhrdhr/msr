@@ -39,7 +39,7 @@
     }
     .card {
         background-color: #fff;
-        margin-top: 10px;
+        margin-top: 30px;
         padding: 20px;
         border-radius: 10px;
         box-shadow: 0 1px 4px rgba(0,0,0,0.1);
