@@ -126,7 +126,7 @@ background-repeat:no-repeat;background-position:center}
                	<a href="https://tool.ucany.net/index/login/login?open=1" id="M1" style="background-color: #af00ff;">私人管家</a>
                	<a href="https://share.feijipan.com/s/HLUfkcjd" id="M1" style="background-color: #2ed000;">酷我音乐</a>
                	<a href="https://www.physkan.com/vodtype/1.html" id="M1" style="background-color: #09c5de;">胖虎影视</a>
-               	<a https://tools.liumingye.cn/music/#/" id="M1" style="background-color: #ff7a7a;">无损音乐</a>
+               	        	<a href="https://tools.liumingye.cn/music/#/" id="M1" style="background-color: #ff7a7a;">音乐在线听</a>
                	<a href="https://flowus.cn/swpd/share/b5ece3bc-f79d-48af-b535-191c183cfa5b" id="M1" style="background-color: #d4a40a;">资源收藏库</a>
                	<a href="https://www.fanshudm.com/" id="M1" style="background-color: #444444;">番薯动漫</a>
                	
