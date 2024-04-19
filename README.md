@@ -1,107 +1,144 @@
-<html lang="en">
+<!DOCTYPE html>
+<html lang="">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>🤪😜🌈🎭🧩陌生人网静态网址导航</title>
-<style>
-    @keyframes auroraBG {
-        0% { background-position: 0% 50%; }
-        25% { background-position: 100% 50%; }
-        50% { background-position: 0% 50%; }
-        75% { background-position: 100% 50%; }
-        100% { background-position: 0% 50%; }
-    }
-    body, html {
-        height: 100%;
-        margin: 0;
-        overflow: hidden;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        background: linear-gradient(120deg, #012939, #0290b0, #00cdac, #a1ffce, #f68084, #feada6, #012939);
-        background-size: 800% 800%;
-        animation: auroraBG 20s ease infinite;
-        font-family: Arial, sans-serif;
-    }
-    .container {
-        backdrop-filter: blur(10px);
-        background-color: rgba(255, 255, 255, 0.7);
-        padding: 20px;
-        border-radius: 10px;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-        transition: background-color 0.3s ease, box-shadow 0.5s ease, transform 0.5s ease;
-        cursor: pointer;
-        width: 80%; /* Adjust container width */
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    .card {
-        background-color: #fff;
-        margin-top:50px;
-        padding: 20px;
-        border-radius: 10px;
-        box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-        display: flex;
-        width: 100%; /* Full width cards */
-    }
-    .left {
-        flex: 3;
-    }
-    .right {
-        flex: 1;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-    .right a {
-        text-decoration: none;
-        color: white;
-        background-color: #007BFF;
-        padding: 10px 20px;
-        border-radius: 5px;
-    }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>🤪😜🌈🎭🧩陌生人</title>
+    <meta name="description" content="小哥哥">
+    <meta name="keywords" content="小哥哥">
+    <link rel="icon" type="image/ico" href="//gravatar.eas1.cn/avatar/4cc893d113dd74ceca73f9863f2c5446/">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/5.12.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="http://js.02boy.com/favicon.ico"  />
+    <style> 
+body{background-image:url(02bj.jpg); 
+background-repeat:no-repeat;background-position:center} 
+.title{
+            text-align: center;
+            font-size: 25px;
+            font-weight: bold;
+            color: cadetblue;
+            margin-top: 100px;
+            margin-bottom: 20px;
+            font-family: fantasy;
+        }
+
+        /* 下面是搜索框样式 */
+        .searchBox{
+            width: 82%;
+            height: 35px;
+            border: 1px solid cadetblue;
+            outline: hidden;
+            border-radius: 2px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        .inputBox{
+                border: none;
+    width: 80%;
+    height: 26px;
+    line-height: 35px;
+    outline: none;
+    padding-left: 8px;
+    caret-color: #008B8B;
+    font-size: 14px;
+        }
+
+        .searchBtn{
+            width: 76px;
+    height: 33px;
+    border: none;
+    position: absolute;
+    right: 0;
+    outline: none;
+    color: white;
+    font-size: 15px;
+    background-color: cornflowerblue;
+        }
+
+        /* 鼠标滑过按钮时背景色改变 */
+        .searchBtn:hover{
+            background-color: #497fdf;
+        }
+        #M1{
+        	width: 100px;
+    height: 36px;
+    padding-top: 2px\9;
+    /* cursor: pointer; */
+    color: #fff;
+    font-size: 15px;
+    /* letter-spacing: 1px; */
+    background: #3385ff;
+    /* border-bottom: 1px solid #2d78f4; */
+    /* outline: medium; */
+    *: ;
+    border-bottom: none;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+    border: 0;
+        text-align: center;
+    text-decoration:none;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+        padding: 7px;
+        float: left;
+        margin-left: 2%;     
+        margin-top: 2%;
+        }
+</style> 
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
 </head>
+
 <body>
-<div class="container">
-    <h1>🤪😜🌈🎭🧩陌生人</h1>
-    <p>欢迎来到<b>网址导航</b>一款本人自用的引流导航</p>
-    <h3>做自己喜欢做的事，能发挥到极致</h3>
-    
-    <div class="card">
-        <div class="left">
-            <h2>陌生人资源网</h2>
-            <p>免费提供网上优质软件资源分享</p>
-        </div>
-        <div class="right">
-            <a href="https://link3.cc/lgdmsr" target="_blank">访问网站</a>
-        </div>
-    </div>
-    <div class="card">
-        <div class="left">
-            <h2>酷我音乐</h2>
-            <p>欢迎各站长来收录</p>
-        </div>
-        <div class="right">
-            <a href="https://share.feijipan.com/s/HLUfkcjd" target="_blank">访问网站</a>
-        </div>
-    </div>
-     <div class="card">
-        <div class="left">
-            <h2>我的网盘</h2>
-            <p>分享免费软件</p>
-        </div>
-        <div class="right">
-            <a href="https://www.123pan.com/s/ynz5Vv-AUI3d.html" target="_blank">访问网站</a>
-        </div>
-    <!-- 更多卡片可以根据需要添加 -->
+    <div id="main" class="container">
+        <div class="row my-card justify-content-center">
+            <div class="col-lg-4 photo-bg"></div>
+            <div class="col-lg-8 card">
+            	
+                
+<div class="searchBox">
+	<form action="http://www.baidu.com/baidu" target="_blank">
+    <input name="tn" type="hidden" value="baidu">
+    <input  class="inputBox" type="text" name="word" size="30" placeholder="www.x6d.com">
+    <input  class="searchBtn" type="submit" value="百度搜索">
+    </form>
 </div>
-<footer>
-    <p>© 2024 <a href="https://link3.cc/lgdmsr">🤪😜🌈🎭🧩陌生人网络</a></p>
-   <p>ICP备案: 已备案</p>
-    <p>公安备案: 已备案</p>
-</footer>
-</body>
-</html>
+
+                <br><br>
+                <p>
+                    我很喜欢的一句话：<br>If the moon smiled, she would resemble you.<br> 如果月亮会笑，那么她一定像你一样美！
+
+                </p>
+                <br><br>
+
+                <!--<p>作者梦悻</p>-->
+                                <p>常用链接:</p>
+
+                
+                
+                
+               <div width="100px" height="100px">
+               	
+               	<a href="https://link3.cc/lgdmsr" id="M1">资源网站</a>
+               	<a href="https://tool.ucany.net/index/login/login?open=1" id="M1" style="background-color: #af00ff;">私人管家</a>
+               	<a href="https://share.feijipan.com/s/HLUfkcjd" id="M1" style="background-color: #2ed000;">酷我音乐</a>
+               	<a href="https://www.physkan.com/vodtype/1.html" id="M1" style="background-color: #09c5de;">胖虎影视</a>
+               	<a href="https://music.wuhanjiayou.cn/" id="M1" style="background-color: #ff7a7a;">轻音乐</a>
+               	<a href="https://flowus.cn/swpd/share/b5ece3bc-f79d-48af-b535-191c183cfa5b" id="M1" style="background-color: #d4a40a;">资源收藏库</a>
+               	<a href="https://www.fanshudm.com/" id="M1" style="background-color: #444444;">番薯动漫</a>
+               	
+               </div>
+               
+                <!--<input type="submit" id="M1" value="百度一下" class="bg s_btn">-->
+
+                <h4 class="mt-4">or, keep your eyes on</h4>
+                <ul class="social mt-1">
+                    <li><a href="https://www.x6k.com/"><i class="fab fa-weibo " aria-hidden="true"></i></a></li>
+                    <!--<li><a href="https://github.com/xuezheli"><i class="fab fa-github" aria-hidden="true"></i></a></li>-->
+                    <!--<li><a href="#"><i class="fab fa-telegram" aria-hidden="true"></i></a></li>-->
+                    <!--<li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>-->
+                    <!--<li>
