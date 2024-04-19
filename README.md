@@ -134,10 +134,14 @@ background-repeat:no-repeat;background-position:center}
                
                 <!--<input type="submit" id="M1" value="百度一下" class="bg s_btn">-->
 
-                <h4 class="mt-4">or, keep your eyes on</h4>
-                <ul class="social mt-1">
-                    <li><a https://link3.cc/lgdmsr"><i class="fab fa-weibo " aria-hidden="true"></i></a></li>
-                    <li><a href="https://github.com/xuezheli"><i class="fab fa-github" aria-hidden="true"></i></a></li>-->
-        <li><a href="#"><i class="fab fa-telegram" aria-hidden="true"></i></a></li>-->
-                <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>-->
-                    <li>
+
+            </div>
+        </div>
+        <div class="footer">
+            <footer class="mt-3">
+<script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1278686381'%3E%3C/span%3E%3Cscript src='https://v1.cnzz.com/z_stat.php%3Fid%3D1278686381%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
