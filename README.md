@@ -175,4 +175,15 @@
             <p>不要信链接里面的广告进了链接，相信链接里面的广告,出了什么事情，后果自负</p>
         </div>
         <div class="right">
-            <a href="https://wwac
+            <a href="https://wwac.lanzouj.com/b0en1q6xe" target="_blank">访问网站</a>
+        </div>
+    </div>
+    <!-- 更多卡片可以根据需要添加 -->
+</div>
+<footer>
+    <p>© 2024 <a href="https://m.baidu.com/?from=1012852z">资源云网络</a></p>
+       <p>ICP备案<a href="https://www.mps.gov.cn/index.html">：已备案</a></p>
+    <p>公安备案<a href="https://www.mps.gov.cn/index.html">已备案</a></p>
+</footer>
+</body>
+</html>
