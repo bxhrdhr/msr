@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>资源云软件库</title>
+<title>资源云</title>
 <style>inite;
         font-family: Arial, sans-serif;
     }
