@@ -48,8 +48,8 @@
 </head>
 <body>
 <div class="container">
-    <h1>资源云软件库</h1>
-    <p>欢迎来到资源云软件库</p>
+    <h1>资源云</h1>
+    <p>欢迎来到资源云收藏库</p>
     <div class="card">
         <div class="left">
             <h2>幺蓝破解外挂</h2>
