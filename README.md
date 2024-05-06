@@ -193,8 +193,8 @@ li{
             </div>
             <div class="footer">温馨提示：本平台所有内容来源网络上
                 <br>🤪😜🌈🎭🧩陌生人</div>
-                  <p>ICP备案<a href="https://www.mps.gov.cn/index.html">：已备案</a></p>
-    <p>公安备案<a href="https://www.mps.gov.cn/index.html">已备案</a></p>
+                  <p>蜀ICP备17006342号<a href="https://beian.miit.gov.cn/#/home">：</a></p>
+    <p>法律声明<a https://v.16yun.cn/misc/agreement/law/"></a></p>
         </div>
         <script type="text/javascript"></script>
 
