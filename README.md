@@ -193,8 +193,8 @@ li{
             </div>
             <div class="footer">温馨提示：本平台所有内容来源网络上
                 <br>🤪😜🌈🎭🧩陌生人</div>
-                  <p><a href="https://beian.miit.gov.cn/#/home">：</a>蜀ICP备17006342号</p>
-    <p><a https://v.16yun.cn/misc/agreement/law/"></a>法律声明</p>
+<p><a href="https://beian.miit.gov.cn/#/home">蜀ICP备17006342号</a></p>
+    <p><a href="https://v.16yun.cn/misc/agreement/law/">法律声明</a></p>
         </div>
         <script type="text/javascript"></script>
 
