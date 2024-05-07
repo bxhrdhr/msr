@@ -20,7 +20,7 @@
     padding-bottom: 20px;
 }
 .container{
-    max-width: 550px;
+    max-width: 350px;
     text-align: center;
     margin: 20px auto 0;
     padding: 20px;
