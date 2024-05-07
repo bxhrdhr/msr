@@ -1,3 +1,4 @@
+
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -19,7 +20,7 @@
     padding-bottom: 20px;
 }
 .container{
-    max-width: 350px;
+    max-width: 550px;
     text-align: center;
     margin: 20px auto 0;
     padding: 20px;
@@ -173,7 +174,10 @@ li{
                     <img src="https://app2.zhuiying.cyou//logo.jpg">幺蓝破解外挂</a>
                          <a class="button rounded button-ios animated" id="ios_link" href="https://www.123pan.com/s/agRrVv-AMAuA.html" target="_blank">
                     <img src="https://app2.zhuiying.cyou//logo.jpg">幺蓝破解外挂2</a>
-                     
+                     <a class="button rounded button-ios animated" id="ios_link" href="https://sub.tgzdyz2.xyz/sub" target="_blank">
+                    <img src="https://app2.zhuiying.cyou//logo.jpg">通往全世界的门票</a>
+                    <a class="button rounded button-ios animated" id="ios_link" href="https://github.com/2dust/v2rayNG/releases/download/1.8.14/v2rayNG_1.8.14.apk" target="_blank">
+                    <img src="https://app2.zhuiying.cyou//logo.jpg">通往全世界的飞机</a>
             </div>
             <div class="problems">
                 <div class="problems_title">安装教程（请耐心阅读）</div>
@@ -191,9 +195,9 @@ li{
                     </ol>
                 </div>
             </div>
-            <div class="footer">温馨提示：本平台所有内容来源网络上
-                <br>🤪😜🌈🎭🧩陌生人</div>
-<p><a href="https://beian.miit.gov.cn/#/home">蜀ICP备17006342号</a></p>
+            <div class="footer">温馨提示：本平台所有内容来源网络上本站所有的东西只提供学习做违规的事自己承担责任
+                <br>作者:🤪😜🌈🎭🧩陌生人</div>
+                  <p><a href="https://beian.miit.gov.cn/#/home">蜀ICP备17006342号</a></p>
     <p><a href="https://v.16yun.cn/misc/agreement/law/">法律声明</a></p>
         </div>
         <script type="text/javascript"></script>
