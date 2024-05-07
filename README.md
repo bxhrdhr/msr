@@ -20,7 +20,7 @@
     padding-bottom: 20px;
 }
 .container{
-    max-width: 350px;
+    max-width: 380px;
     text-align: center;
     margin: 20px auto 0;
     padding: 20px;
@@ -195,7 +195,7 @@ li{
                     </ol>
                 </div>
             </div>
-            <div class="footer">温馨提示：本平台所有内容来源网络上本站所有的东西只提供学习做违规的事自己承担责任
+            <div class="footer">温馨提示：本平台所有内容来源网络上本站所有的东西只提供学习做违法的事自己承担责任
                 <br>作者:🤪😜🌈🎭🧩陌生人</div>
                   <p><a href="https://beian.miit.gov.cn/#/home">蜀ICP备17006342号</a></p>
     <p><a href="https://v.16yun.cn/misc/agreement/law/">法律声明</a></p>
