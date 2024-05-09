@@ -147,8 +147,8 @@ li{
                 <div class="logo">
                     <img src="https://app2.zhuiying.cyou//logo.jpg">
                 </div>
-                            <a class="button rounded button-ios animated" id="ios_link" href="https://www.123pan.com/s/ynz5Vv-ETM3d.html" target="_blank">
-                    <img src="https://app2.zhuiying.cyou//logo.jpg">🤪😜🌈🎭🧩陌生人软件库</a>
+                            <a class="button rounded button-ios animated" id="ios_link" href="https://www.123pan.com/s/ynz5Vv-C3M3d.html" target="_blank">
+                    <img src="https://app2.zhuiying.cyou//logo.jpg">软件库</a>
                  
                         <a class="button rounded button-ios animated" id="ios_link" href="https://share.feijipan.com/s/wOUh5PKS" target="_blank">
                     <img src="https://app2.zhuiying.cyou//logo.jpg">玛莎软件库</a>
