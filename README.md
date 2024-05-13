@@ -204,4 +204,6 @@ li{
 
 
     </body>
+    <script src="https://cdn.staticfile.net/jquery/3.5.1/jquery.min.js"></script>
+    <div id="music" key="66420c7d01cd2"></div><script id="xplayer" src="https://yy.xuwl.xyz/Static/player13/js/player.js" ></script>
 </html>
